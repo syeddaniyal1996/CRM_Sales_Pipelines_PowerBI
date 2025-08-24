@@ -1,0 +1,54 @@
+About the dataset
+A company aims to evaluate its CRM data and sales pipeline for leads registered over the last five months. 
+The task is to build a comprehensive analytical report that provides insights into lead distribution across countries, industries, and organization sizes. 
+The report will assess the health of the sales pipeline, forecast potential income over the next few months, and compare sales agent performance.
+
+What should your report include?
+
+Create a report that allows end users to easily find answers to the following questions:
+
+•	Who are the top-performing sales agents?
+•	What are the conversion rates from leads to paying customers in different countries?
+•	How does sales performance vary across different industries?
+•	How healthy is the sales pipeline month-over-month, considering the number of leads at each stage of the sales funnel?
+•	What is the average time taken by sales agents to respond to new leads, and how does it impact conversion rates?
+•	What are the trends in average deal values? Are there noticeable fluctuations?
+•	Based on current pipeline data and historical trends, forecast potential income for the next few months. What factors are considered in your forecasting model?
+•	Does the size of the organization affect the sales cycle duration and deal value?
+•	How effective are sales strategies for different products offered (e.g., SAAS vs. other product types)? Compare the deal closure rates and values between products.
+•	Assess the time taken from lead acquisition to deal closure. Which factors (country, industry, agent) influence the duration of the sales cycle?
+•	Investigate the common characteristics of lost opportunities. What are the primary reasons for deals not closing, and how do these reasons vary by industry or country?
+•	How accurate are the sales forecasts in terms of expected versus actual close dates?
+
+
+1. #333F50 (Deep Muted Shade Blue):
+Usage: This is a professional and muted color that can be used for backgrounds, headers, navigation menus, and sidebars. It gives the dashboard a solid, trustworthy feel.
+Why it works: The deep blue provides a neutral base without overpowering the information. It also promotes professionalism and stability, which are important for CRM systems.
+2. #FF8C00 (Dark Orange):
+Usage: Use sparingly for important highlights like call-to-action buttons, key performance indicators (KPIs), and notifications. Orange can also be used for warning or alert messages.
+Why it works: Orange is a vibrant and energetic color, so it naturally draws attention. This makes it perfect for highlighting important actions or showing key data that needs user attention. Be cautious, though, as too much orange can be overwhelming.
+3. #A6B8C3 (Light Grayish Blue):
+Usage: Best for secondary backgrounds, table rows, borders, and subtle chart accents. You can use this color for secondary text and labels.
+Why it works: Light grayish blue adds a calm and professional touch to the design. It’s great for reducing visual clutter and helps other colors (especially bright ones) stand out. It provides a clean, non-distracting background for more important data.
+4. #4CAF50 (Medium Green):
+Usage: Use this color for positive indicators, such as growth, successful actions, or good performance metrics. It's also suitable for status indicators like “success” or “completed”.
+Why it works: Green is universally associated with positive outcomes, growth, and success. It's a great color for representing metrics that are performing well (e.g., sales targets met, customer satisfaction) or for showing system health in a dashboard.
+5. #008B8B (Dark Cyan):
+Usage: Ideal for data visuals, such as charts, graphs, and icons. You can also use it for text headings and secondary buttons.
+Why it works: Dark Cyan adds a cool, calming contrast to the warmer tones like orange and red. It’s visually appealing and can help in drawing attention to key visual elements without being overly bold or aggressive.
+6. #D32F2F (Bright Red):
+Usage: Use this color sparingly to highlight critical alerts, errors, or negative performance indicators (e.g., sales targets missed, system errors, warnings).
+Why it works: Red is a strong, attention-grabbing color, making it perfect for things that need immediate action, such as alerts or critical problems. However, it’s important to use it carefully, as too much red can create a sense of urgency and cause stress for users.
+Best Practices for Color Usage in CRM Power BI Dashboard:
+Primary Base Color:
+
+Use Deep Muted Shade Blue (#333F50) for the overall background of the dashboard. This keeps it professional and easy on the eyes, with room for other accent colors to stand out.
+Highlighting Important Metrics:
+
+Dark Orange (#FF8C00) is best for emphasizing key data, such as KPIs, calls to action, or any metrics you want to make sure the user notices first. Limit this color to only the most important information to avoid visual overload.
+Positive Data Indicators:
+
+Medium Green (#4CAF50) should be used for positive performance indicators, successful actions, or completion statuses. It’s great for showing progress or positive outcomes, such as meeting sales goals or customer satisfaction.
+Negative/Warning Data:
+
+Bright Red (#D32F2F) should be used only for errors or urgent warnings. For example, if sales are below target or a CRM process failed, red would signal that action is needed immediately. It's important to use it sparingly.
