@@ -2,10 +2,10 @@
 This project analyzes CRM and sales pipeline data to track leads, opportunities, and conversions. The dashboard provides a clear view of deal stages, sales performance, revenue forecasts, and customer insights, helping teams monitor progress, identify bottlenecks, and improve overall conversion rates.
 
 # Main Page Overview
-<img width="1357" height="767" alt="01" src="https://github.com/user-attachments/assets/2fc2f443-1888-4b91-b452-3c96a5d10dca" />
+<img width="1563" height="904" alt="01" src="https://github.com/user-attachments/assets/e4bd100a-f3b3-4251-b836-b5bde478c18a" />
 
 # Second Page
-<img width="1354" height="765" alt="02" src="https://github.com/user-attachments/assets/1d4389ae-f43a-4d12-a31e-0a5948fb67cd" />
+<img width="1566" height="903" alt="02" src="https://github.com/user-attachments/assets/eb6aa80a-2ab6-4909-88c8-066e05624461" />
 
 # Data Modelling 
 <img width="797" height="521" alt="Modelling" src="https://github.com/user-attachments/assets/58baad0d-c1ea-4bea-9338-a0dc235f70e2" />
